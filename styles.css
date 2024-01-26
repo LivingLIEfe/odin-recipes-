@@ -1,0 +1,172 @@
+*{
+    box-sizing: border-box;
+}
+
+
+
+body {
+    background-color:#FFD1DC;
+
+}
+
+
+
+
+.card {
+    background-color: aqua;
+    padding: 150px;
+    text-align: center;
+    margin-top: 10px;
+    margin-right: 50px;
+    margin-left: 50px;
+    margin-bottom: 10px;
+}
+
+.recipe {
+    background-color: #FFD1DC;
+    color: black;
+    font-family: sans-serif;
+    font-weight: bold;
+    padding: 10px;
+}
+
+
+
+.list {
+    list-style-type: none;
+    margin: 30px;
+
+}
+
+h1 {
+    margin-left: 25px;
+    background-color: aqua;
+    color:#FFD1DC;
+    font-weight: bold;
+}   
+
+.pic{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 35%;
+}
+
+.para {
+    font-size: 20px;
+    text-align: center;
+    color: slateblue;
+    font-weight: bold;
+
+
+}
+
+.recipeh1 {
+    font-weight: bold;
+    text-align: center;
+    background-color: #FFD1DC;
+    color: #99D1D5;
+    font-size: 50px;
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: #7550A6;
+}  
+.recipeimg {
+    text-align: center;
+    
+}
+
+#zitipic {
+    border-color: #7550A6;
+    border-width: 5px;
+    border-style: solid;
+}
+
+.disch2 {
+    text-align: center;
+    color: #7550A6;
+    font-size: 40px;
+    
+}
+
+.recipep{
+    text-align: center;
+    font-size: 20px;
+    background-color: #99D1D5;
+    border-color: #7550A6;
+    border-style: dashed;
+
+}
+
+.h2_plus_ing {
+    background-color: #DDBBCF;
+    margin-right: 1000px;
+    border-color:#7550A6;
+    border-style: solid;
+    border-width: 5px;
+}
+
+.ingh2 {
+    font-size: 30px;
+    font-family: sans-serif;
+}
+
+.inglist {
+    font-size: 20px;
+
+}
+
+
+.stepsh2_plus_list{
+    border-color:#7550A6;
+    border-style: solid;
+    border-width: 5px;
+    margin-top: 8px;
+    margin-right: 500px;
+    background-color: #DDBBCF;
+
+}
+
+.recipesteps {
+    font-size: 30px;
+    font-family: sans-serif;
+
+}
+
+.stepslist {
+    font-size: 20px;
+}
+
+.pb_button, .tort_button {
+    margin-top:  10px;
+    padding-left: 100px;
+}
+
+.pb_button, .tort_button, .home_button {
+    padding: 2px;
+    border-color: #7F00FF;
+    border-style: solid;
+    border-radius: 4px;
+    background-color:white;
+    font-weight: bold;
+    width: 187px;
+    list-style-type: none;
+    font-size: 17px;
+}
+
+.bottombuttons {
+    margin-top: 8px;
+    margin-left: 750px;
+}
+
+.home_button {
+    padding-left: 70px;
+}
+
+.margin_left {
+    padding-left: 8px;
+}
+
+
+.margin_left_fix {
+    padding-left: 3px;
+}
